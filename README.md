@@ -40,6 +40,7 @@ semaforo_simples
 ├── semaforo_botao.cpp
 ├── assets/
 │   ├── semaforo_tinkercad.png
+│   ├── semaforo_tinkercad.jpeg
 │   ├── semaforo.mp4
 │   ├── semaforo_botao.mp4
 └── avaliacoes.md
