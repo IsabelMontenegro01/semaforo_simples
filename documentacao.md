@@ -69,6 +69,12 @@ Quando o botão é pressionado:
 <sup>Fonte: Material produzido pelos autores (2025)</sup>
 </div>
 
+<div align="center">
+<sub>Semáforo protoboard</sub>  
+<img src="./assets/semaforo_protoboard.jpeg" width="100%">  
+<sup>Fonte: Material produzido pelos autores (2025)</sup>
+</div>
+
 ---
 
 ## Código do Projeto
