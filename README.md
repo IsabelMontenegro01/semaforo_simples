@@ -33,15 +33,17 @@
 
 ## Estrutura do Repositório
 
+```
 semaforo_simples
 ├── README.md
 ├── documentacao.md
 ├── semaforo_botao.cpp
 ├── assets/
-│ ├── semaforo_tinkercad.png
-│ ├── semaforo.mp4
-│ ├── semaforo_botao.mp4
+│   ├── semaforo_tinkercad.png
+│   ├── semaforo.mp4
+│   ├── semaforo_botao.mp4
 └── avaliacoes.md
+```
 
 ---
 
